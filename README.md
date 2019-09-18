@@ -1,5 +1,5 @@
 # local-sleep-recruitment
-Screening for sleep disorders and cognitive impairment
+Local Sleep Recruitment
   
 Production:    https://wappsystem.github.io/local-sleep-recruitment  
 Demonstration: https://wappsystem.github.io/local-sleep-recruitment?tb=demo
